@@ -19,6 +19,3 @@ Este programa está licenciado sob a licença MIT. Consulte o arquivo LICENSE pa
 
 Autor
 Este programa foi desenvolvido por Theozin e contribuições são sempre bem-vindas. Sinta-se à vontade para criar um pull request ou entrar em contato com o autor para enviar feedback ou sugestões.
-
-Agradecimentos
-Agradecimentos especiais a Theozin pelo seu trabalho duro e dedicação.
