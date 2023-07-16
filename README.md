@@ -14,8 +14,3 @@ Copy code
 python packet_parser.py
 O programa solicitará que você insira o valor hexadecimal que deseja traduzir. Digite o valor e pressione Enter. O programa exibirá o valor em texto.
 
-Licença
-Este programa está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações sobre os termos desta licença.
-
-Autor
-Este programa foi desenvolvido por Theozin e contribuições são sempre bem-vindas. Sinta-se à vontade para criar um pull request ou entrar em contato com o autor para enviar feedback ou sugestões.
