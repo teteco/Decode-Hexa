@@ -1,12 +1,15 @@
 # Decode-Hexa
 
 Programa de leitura de hexadecimal em Python
+
 Este programa permite que o usuário leia o valor hexadecimal e o traduza em texto. Ele foi escrito em Python e é compatível com qualquer sistema operacional que possua uma instalação Python válida.
 
 Instalação
+
 Para usar este programa, você precisará ter o Python instalado no seu sistema operacional. Se você ainda não possui o Python instalado, siga as instruções do site oficial do Python para fazer o download e a instalação corretamente.
 
 Executando o programa
+
 Para executar o programa, abra o terminal ou o prompt de comando no seu sistema operacional e navegue até o diretório onde o arquivo está localizado. Em seguida, execute o comando a seguir:
 python packet_parser.py
 
